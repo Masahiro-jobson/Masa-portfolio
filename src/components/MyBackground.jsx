@@ -9,7 +9,7 @@ export const MyBackground = () => {
         {/* Top My picture */}
             <div className="flex items-center opacity-0 animate-fade-in-delay-3 mb-8">
                 <img 
-                src="/src/mypic.jpeg" 
+                src="/public/mypic.jpeg" 
                 alt="Masahiro Togasaki"
                 className="w-40 h-40 md:w-80 md:h-80 rounded-2xl shadow-lg object-cover" />
             </div>
