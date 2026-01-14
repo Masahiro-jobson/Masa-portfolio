@@ -26,7 +26,7 @@ export const About = () => {
                         </a>
 
                         <a 
-                        href="https://drive.google.com/file/d/1gigf3-7lsGME3JkywhpWnQG2NXuTVBYV/view?usp=drive_link"
+                        href="https://drive.google.com/file/d/15Gyt2VotqYiAhFLXeuf49jEPX6rM2X6W/view?usp=sharing"
                         target="_blank" 
                         className="cosmic-button"
                         >
